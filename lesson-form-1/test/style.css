@@ -1,0 +1,23 @@
+.block {
+    width: 100px;
+    height: 100px;
+    background-color: #000;
+    margin: 10px;
+    
+
+    display: block;
+}
+
+.hover {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 4, 4);
+    margin: 10px;
+    
+
+    display: none;
+}
+
+.d-block {
+    display: block;
+}

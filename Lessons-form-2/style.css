@@ -1,0 +1,45 @@
+.block {
+  width: 100px;
+  height: 100px;
+  background-color: #000;
+  margin: 50px;
+
+  display: block;
+}
+
+.hover {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(255, 4, 4);
+  margin: 100px;
+
+  display: none;
+}
+
+.d-block {
+  display: block;
+}
+header {
+  margin-top: 25px;
+  padding: 30px;
+  background-color: blueviolet;
+}
+.tests {
+  margin-top: 25px;
+  padding: 10px;
+}
+a {
+  background-color: azure;
+}
+.floor path {
+  stroke: #263c41;
+  stroke-width: 310px;
+  fill: #a3e05485;
+  cursor: pointer;
+  opacity: 0;
+}
+.svg-page {
+  max-width: 1550px;
+  width: 100%;
+  margin: 0 auto;
+}
