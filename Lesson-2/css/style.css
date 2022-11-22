@@ -1,0 +1,36 @@
+@import "dilivery.css";
+.banner-title {
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 70px;
+  color: #c83267;
+  margin: 0 0 48px 0;
+}
+
+.banner-description {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  color: #484848;
+  width: 650px;
+  margin: 0 0 35px 0;
+}
+
+.banner-btn {
+  background: #c83267;
+  border: 1px solid #c83267;
+  border-radius: 4px;
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 8px;
+  text-decoration: none;
+  padding: 20px 60px 20px 60px;
+}
+.banner-container {
+  padding: 250px 264px 250px 264px;
+  background-image: url(../img/banner.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}

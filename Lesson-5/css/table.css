@@ -1,0 +1,16 @@
+.table {
+  border: 4px solid red;
+  border-collapse: inherit;
+  width: 900px;
+  margin: 90px auto 120px;
+}
+
+.table-caption {
+  font-size: 48px;
+}
+
+.table td {
+  text-align: center;
+  border: 3px solid blue;
+  padding: 30px 15px;
+}
